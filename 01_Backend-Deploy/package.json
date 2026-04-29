@@ -4,7 +4,7 @@
   "description": "backend deploy",
   "main": "index.js",
   "scripts": {
-    "start": "bun run index.js"
+    "start": "node index.js"
   },
   "keywords": [
     "node"
