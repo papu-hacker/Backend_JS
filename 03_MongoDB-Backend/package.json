@@ -1,0 +1,15 @@
+{
+  "name": "mongodb-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "index.js",
+  "scripts": {
+    "start": "bun index.js"
+  },
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.6.1"
+  }
+}
