@@ -4,7 +4,7 @@
 ### Required Packages
 ```bash
 bun init ProjectName
-bun i express mongoose dotenv
+bun i express mongoose dotenv cors cookie-parser
 bun i -d nodemon prettier
 ```
 
